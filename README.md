@@ -8,14 +8,6 @@
  
 |  Techniques to calculate Time Complexity: |
 |------------------------------------------|
-| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: <br></br>T(n) = n2 → O(n^2)<br></br> T(n) = logn → O(logn) <br></br> <img width="792" alt="Screenshot 2022-08-28 at 1 34 07 PM" src="https://user-images.githubusercontent.com/99706585/187064258-a3828e0e-5939-461f-86ae-d2685fd73d5c.png"> <br></br> <img width="681" alt="Screenshot 2022-08-28 at 1 34 21 PM" src="https://user-images.githubusercontent.com/99706585/187064262-136dfaca-8d99-4b6c-92f5-bbb69145e823.png"><br></br>1. Constant time – O (1)
-
-2. Linear time – O (n)
-
-3. Logarithmic time – O (log n)
-
-4. Quadratic time – O (n^2)
-
-5. Cubic time – O (n^3)|
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: <br></br>T(n) = n2 → O(n^2)<br></br> T(n) = logn → O(logn) <br></br> <img width="792" alt="Screenshot 2022-08-28 at 1 34 07 PM" src="https://user-images.githubusercontent.com/99706585/187064258-a3828e0e-5939-461f-86ae-d2685fd73d5c.png"> <br></br> <img width="681" alt="Screenshot 2022-08-28 at 1 34 21 PM" src="https://user-images.githubusercontent.com/99706585/187064262-136dfaca-8d99-4b6c-92f5-bbb69145e823.png"><br></br>1. Constant time – O (1) 2. Linear time – O (n) 3. Logarithmic time – O (log n) 4. Quadratic time – O (n^2) 5. Cubic time – O (n^3)|
 
 
