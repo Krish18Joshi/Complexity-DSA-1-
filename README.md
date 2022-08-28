@@ -8,7 +8,6 @@
  
 |  Techniques to calculate Time Complexity: |
 |------------------------------------------|
-| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
-|  T(n) = n2 → O(n^2) |
-| T(n) = logn → O(logn) |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: <br></br>T(n) = n2 → O(n^2)<br></br> T(n) = logn → O(logn) |
+
 
