@@ -8,3 +8,8 @@
  
 ## Techniques to calculate Time Complexity:<br></br>
 | Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
+| Once we are able to write the runtime in terms of the size of the input (n), we can find the time complexity. For example: |
